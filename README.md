@@ -82,7 +82,7 @@ require_once 'path/to/PhpOffice/Common/src/Common/Autoloader.php';
 ## Getting started
 
 The following is a basic usage example of the PHPPresentation library.
-
+- [Requirements](#requirements)
 ```php
 // with your own install
 require_once 'src/PhpPresentation/Autoloader.php';
